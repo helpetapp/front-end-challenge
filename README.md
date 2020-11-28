@@ -1,5 +1,5 @@
 # front-end-challenge
-Desafio para os futuros front-ends do [@Helpet](https://github.com/helpetapp)
+Desafio para os futuros front-ends do [@Helpet](https://github.com/helpetapp).
 
 ## Desafio
 
@@ -29,3 +29,12 @@ Considere usar suas melhores skills neste projeto. Boas práticas e padrões de 
 Certifique-se também de escrever um README claro, como se este fosse um projeto de código aberto. Pense que um novo desenvolvedor pode se juntar ao projeto e ele deve conseguir obter as informações necessárias para rodar o projeto e entendê-lo através do README.
 
 Quer nos agradar? Escreva testes unirários para seus componentes e métodos. :)
+
+## Como entregar
+
+Publique o código-fonte no Github, BitBucket ou Gitlab. Recomendamos que coloque a aplicação para rodar em algum lugar, se possível. Caso opte fazer uma aplicação mobile, o Expo é opção para publicação. Caso opte fazer web, tem o Heroku, Netlify e outros.
+
+Envie os respectivos links (código e aplicação rodando) para [it@helpetapp.com](mailto:it@helpetapp.com).
+
+
+Obrigado e boa sorte!
